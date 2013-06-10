@@ -1,0 +1,4 @@
+C:\Users\gabriel.lima\Documents\Visual Studio 2010\Projects\Catolica.FestivalDeDanca.BO\BusinessObject\bin\Debug\BusinessObject.dll
+C:\Users\gabriel.lima\Documents\Visual Studio 2010\Projects\Catolica.FestivalDeDanca.BO\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\Users\gabriel.lima\Documents\Visual Studio 2010\Projects\Catolica.FestivalDeDanca.BO\BusinessObject\obj\Debug\BusinessObject.dll
+C:\Users\gabriel.lima\Documents\Visual Studio 2010\Projects\Catolica.FestivalDeDanca.BO\BusinessObject\obj\Debug\BusinessObject.pdb
